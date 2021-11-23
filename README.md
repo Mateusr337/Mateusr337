@@ -6,5 +6,5 @@
 - 💬 Pergunte-me sobre ... Qualquer coisa.
 - ⚡ Busco sempre me dedicar com meu melhor, refletindo onde posso melhorar!
 
-## Lenguagens e ferramentas:
+### Lenguagens e ferramentas:
 JavaScript, CSS, Html, Python. VS code, Github.
