@@ -1,10 +1,10 @@
-### Olá, sou o Mateus! 👋
+### Hi, I'm Mateus! 👋
 
-- 🔭 Atualmente estou me desenvolvendo como programador, sempre buscando meu melhor!
-- 🌱 Atualmente estou aprendendo JavaScript, Html, CSS, React, Python.
-- 👯 Estou procurando colaborar com meus aprendizados em códigos abertos!
-- 💬 Pergunte-me sobre ... Qualquer coisa.
-- ⚡ Busco sempre me dedicar com meu melhor, refletindo onde posso melhorar!
+- 🔭 I'm currently developing myself as a programmer, always dedicating my best!
+- 🌱 I'm currently learning JavaScript, Html, CSS, React, Python, Node.
+- 👯 I'm looking to collaborate with my learnings in open source!
+- 💬 Ask me about... Anything. 
+- ⚡ I try to do my best, and always reflecting where I can evolve!
 
-### Lenguagens e ferramentas:
-JavaScript, CSS, Html, React, Python, VS code, Github.
+### languages and tools:
+JavaScript, CSS, Html, React, Node, Python, VS code, Github, trello.
