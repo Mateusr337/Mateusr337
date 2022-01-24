@@ -10,9 +10,8 @@
 JavaScript, CSS, Html, React, Node, Python, VS code, Github, trello, linux.
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a>
-<a href="https://fb.com/mateus cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateus cruz" height="20" width="30" /></a>
-<a href="https://instagram.com/rossettomateus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rossettomateus" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a>
+
 </p>
 
 
