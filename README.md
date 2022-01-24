@@ -1,5 +1,3 @@
-![hello](https://user-images.githubusercontent.com/92904799/150779761-861732f2-98a7-4a6f-96d3-61c9497b3c0a.jpeg)
-
 ## Hi, I'm Mateus! 👋
 
 - 🔭 I'm currently developing myself as a programmer, always dedicating my best!
