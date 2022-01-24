@@ -9,8 +9,6 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Mateusr337&show_icons=true&theme=dracula' />
 
 ### Languages and tools:
-
-, CSS, Html, React, Node, Python, VS code, Github, trello, linux.
  
  <div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=javascript&logoColor=%F7DF1E"/>
