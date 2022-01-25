@@ -25,6 +25,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=python&logoColor=3776AB"/>
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact:
