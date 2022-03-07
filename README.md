@@ -11,7 +11,7 @@
 ### Languages and tools:
  
  <div>
-  <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=javascript&logoColor=%F7DF1E"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=javascript&logoColor=%F7DF1E" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=CSS3&logoColor=1572B6"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=HTML5&logoColor=E34F26"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=react&logoColor=%61DAFB"/>
