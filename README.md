@@ -27,6 +27,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=GitHub&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/trello%20-%2320232a.svg?&style=for-the-badge&color=0052CC&logo=trello&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/linux%20-%2320232a.svg?&style=for-the-badge&color=FCC624&logo=linux&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/npm%20-%2320232a.svg?&style=for-the-badge&color=CB3837&logo=npm&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Heroku&logoColor=ffffff"/>
