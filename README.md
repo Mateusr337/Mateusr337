@@ -1,4 +1,4 @@
-## Ola! Eu sou Mateus! 👋 
+## Ola! Eu sou Mateus ! 👋 
 
 - 🔭 Atualmente estou me desenvolvendo como programador, sempre me dedicando ao máximo!
 - 🌱 Atualmente estou aprendendo aws, docker, clean code e performace.
