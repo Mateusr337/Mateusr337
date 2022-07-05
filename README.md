@@ -66,6 +66,8 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/linux%20-%2320232a.svg?&style=for-the-badge&color=FCC624&logo=linux&logoColor=000000"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&color=F05032&logo=git&logoColor=000000"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/github actions%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=github&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Slack%20-%2320232a.svg?&style=for-the-badge&color=4A154B&logo=Slack&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&color=F24E1E&logo=Figma&logoColor=ffffff"/>
  
 </div>
   
