@@ -98,10 +98,9 @@
 
 <div align="center">
   <a href="https://github.com/Mateusr337">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=radical&show_icons=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusr337&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img width="600" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=radical&show_icons=true"/>
   <br />
-  <img height="340" src="https://github-readme-stats.vercel.app/api/wakatime?username=FranciscaFigueiredo&layout=compact&theme=radical"/>
+  <img width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusRoss&layout=compact&theme=radical"/>
 </div>
   
 <br />
