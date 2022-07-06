@@ -4,10 +4,10 @@
   
 </div>
 
-- 🔭 Atualmente estou me desenvolvendo como programador, sempre me dedicando ao máximo!
-- 🌱 Atualmente estou aprendendo aws, docker, clean code e performace.
+- 🔭 Estou me aprimorando como programador, sempre me dedicando ao máximo!
+- 🌱 Atualmente estou focado em aws, docker, redis e nest.js.
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
-- 💬 Pergunte-me sobre... Qualquer coisa, sugestão: motos.
+- 💬 Pergunte-me sobre... Qualquer coisa, sugestão: séries, animes, carros.
 - ⚡ Procuro dar o meu melhor, e sempre refletindo onde posso evoluir!
 
   
@@ -105,7 +105,7 @@
 <br />
 <br />
 
-### Contact:
+### Contatos:
 <p align="left">
 <a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a> </p>
 
