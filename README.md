@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Estou me aprimorando como programador, sempre me dedicando ao máximo!
-- 🌱 Atualmente estou focado em aws, docker, redis e nest.js.
+- 🌱 Atualmente estou focado em aws, docker, redis, clean arquiteture e clean code.
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
 - 💬 Pergunte-me sobre... Qualquer coisa, sugestão: séries, animes, carros.
 - ⚡ Procuro dar o meu melhor, e sempre refletindo onde posso evoluir!
