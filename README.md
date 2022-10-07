@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ### Linguagens: Front-end :pencil2: 
+  ### Front-end: :pencil2: 
   
 </div>
  
@@ -36,7 +36,7 @@
   
 <div align="center">
   
-  ### Linguagens: Back-end :space_invader: 
+  ### Back-end: :space_invader: 
   
 </div>
   
