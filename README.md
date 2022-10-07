@@ -98,8 +98,9 @@
 
 <div align="center">
   <a href="https://github.com/Mateusr337">
-  <img height="46%" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=radical&show_icons=true&include_all_commits=true"/>
-  <img height="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=radical$langs_count=12" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=transparent&show_icons=true&include_all_commits=true"/>
+    
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=transparent&langs_count=10" />
 </div>
   
 <br />
