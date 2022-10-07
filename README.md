@@ -98,9 +98,9 @@
 
 <div align="center">
   <a href="https://github.com/Mateusr337">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=transparent&show_icons=true&include_all_commits=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=codeSTACKr&show_icons=true&include_all_commits=true"/>
     
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=transparent&langs_count=10" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=codeSTACKr&langs_count=10" />
 </div>
   
 <br />
