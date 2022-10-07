@@ -5,9 +5,9 @@
 </div>
 
 - 🔭 Estou me aprimorando como programador, sempre me dedicando ao máximo!
-- 🌱 Atualmente estou focado em aws, docker, redis, clean arquiteture e clean code.
+- 🌱 Atualmente estou focado em aws, elasticsearch, Java, clean arquiteture e clean code.
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
-- 💬 Pergunte-me sobre... Qualquer coisa, sugestão: séries, animes, carros.
+- 💬 Pergunte-me sobre... Qualquer coisa, sugestão: séries, animes, motos.
 - ⚡ Procuro dar o meu melhor, e sempre refletindo onde posso evoluir!
 
   
@@ -98,9 +98,9 @@
 
 <div align="center">
   <a href="https://github.com/Mateusr337">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=transparent&show_icons=true&include_all_commits=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=transparent&show_icons=true&include_all_commits=true"/>
     
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=transparent&langs_count=10" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=transparent&langs_count=10" />
 </div>
   
 <br />
