@@ -50,6 +50,13 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&color=C21325&logo=jest&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Nestjs%20-%2320232a.svg?&style=for-the-badge&color=E0234E&logo=Nestjs&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Prisma%20-%2320232a.svg?&style=for-the-badge&color=4C51BF&logo=Prisma&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Java%20-%2320232a.svg?&style=for-the-badge&color=E11C23&logo=OpenJDK&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Spring%20-%2320232a.svg?&style=for-the-badge&color=6DB33F&logo=Spring&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Spring Security%20-%2320232a.svg?&style=for-the-badge&color=6DB33F&logo=SpringSecurity&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Spring Boot%20-%2320232a.svg?&style=for-the-badge&color=6DB33F&logo=SpringBoot&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Junit5%20-%2320232a.svg?&style=for-the-badge&color=25A162&logo=Junit5&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/.ENV%20-%2320232a.svg?&style=for-the-badge&color=ECD53F&logo=.ENV&logoColor=000000"/>
+  
   
 </div>
   
@@ -68,7 +75,8 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/github actions%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=github&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Slack%20-%2320232a.svg?&style=for-the-badge&color=4A154B&logo=Slack&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&color=F24E1E&logo=Figma&logoColor=ffffff"/>
- 
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&color=2496ED&logo=Docker&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Intellij IDEA%20-%2320232a.svg?&style=for-the-badge&color=FCC624&logo=IntellijIDEA&logoColor=000000"/>
 </div>
   
 <div align="center">
