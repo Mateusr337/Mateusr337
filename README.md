@@ -56,8 +56,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/Spring Boot%20-%2320232a.svg?&style=for-the-badge&color=6DB33F&logo=SpringBoot&logoColor=000000"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Junit5%20-%2320232a.svg?&style=for-the-badge&color=25A162&logo=Junit5&logoColor=000000"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/.ENV%20-%2320232a.svg?&style=for-the-badge&color=ECD53F&logo=.ENV&logoColor=000000"/>
-  
-  
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Elasticsearch%20-%2320232a.svg?&style=for-the-badge&color=005571&logo=Elasticsearch&logoColor=000000"/>
 </div>
   
 
