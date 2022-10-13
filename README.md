@@ -4,11 +4,11 @@
   
 </div>
 
-- 🔭 Estou me aprimorando como programador, sempre me dedicando ao máximo!
-- 🌱 Atualmente estou focado em aws, elasticsearch, Java, clean arquiteture e clean code.
+- 🔭 Vamos construir um mundo melhor com programação? Pois eu estou disposto, e você?!
+- 🌱 Atualmente estou focado em aprimoramento e performace em TS, elasticsearch, Java, clean architecture e clean code.
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
-- 💬 Pergunte-me sobre... Qualquer coisa, sugestão: séries, animes, motos.
-- ⚡ Procuro dar o meu melhor, e sempre refletindo onde posso evoluir!
+- 💬 Vamos conversar sobre qualquer coisa! Exemplo, pode comentar meus códigos... Busco sempre estar aberto a críticas contrutivas e trocas de conhecimento.
+- ⚡ Me dedicando ao máximo, sempre refletindo onde posso evoluir! 
 
   
 <div align="center">
