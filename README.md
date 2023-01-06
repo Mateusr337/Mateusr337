@@ -9,6 +9,9 @@
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
 - 💬 Vamos conversar sobre qualquer coisa! Exemplo, pode comentar meus códigos... Busco sempre estar aberto a críticas contrutivas e trocas de conhecimento.
 - ⚡ Me dedicando ao máximo, sempre refletindo onde posso evoluir! 
+-  **Linkedin**: https://www.linkedin.com/in/mateuscruzrossetto
+
+<!-- <a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a>  -->
 
   
 <div align="center">
@@ -110,10 +113,5 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=codeSTACKr&langs_count=10" />
 </div>
   
-<br />
-<br />
 
-### Contatos:
-<p align="left">
-<a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a> </p>
 
