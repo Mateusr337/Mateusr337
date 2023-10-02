@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Vamos construir um mundo melhor com programação? Pois eu estou disposto, e você?!
-- 🌱 Atualmente estou focado em aprimoramento e performace em TS, elasticsearch, Java, clean architecture e clean code.
+- 🌱 Atualmente estou focado em aprimoramento e performace, clean architecture e clean code.
 - 👯 Procuro colaborar com meus aprendizados em código aberto!
 - 💬 Vamos conversar sobre qualquer coisa! Exemplo, pode comentar meus códigos... Busco sempre estar aberto a críticas contrutivas e trocas de conhecimento.
 - ⚡ Me dedicando ao máximo, sempre refletindo onde posso evoluir! 
