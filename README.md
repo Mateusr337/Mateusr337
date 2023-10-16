@@ -105,7 +105,7 @@
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=codeSTACKr&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=codeSTACKr&langs_count=10" />
 </div>
   
 
