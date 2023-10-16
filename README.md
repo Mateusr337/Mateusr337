@@ -6,12 +6,10 @@
 
 - 🔭 Vamos construir um mundo melhor com programação? Pois eu estou disposto, e você?!
 - 🌱 Atualmente estou focado em aprimoramento e performace, clean architecture e clean code.
-- 👯 Procuro colaborar com meus aprendizados em código aberto!
-- 💬 Vamos conversar sobre qualquer coisa! Exemplo, pode comentar meus códigos... Busco sempre estar aberto a críticas contrutivas e trocas de conhecimento.
 - ⚡ Me dedicando ao máximo, sempre refletindo onde posso evoluir! 
--  **Linkedin**: https://www.linkedin.com/in/mateuscruzrossetto
+-  **Linkedin**: https://www.linkedin.com/in/mcrossetto
 
-<!-- <a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a>  -->
+<!-- <a href="https://www.linkedin.com/in/mateuscruzrossetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mcrossetto" height="20" width="30" /></a>  -->
 
   
 <div align="center">
@@ -107,9 +105,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Mateusr337">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=Mateusr337&count_private=true&theme=codeSTACKr&show_icons=true&include_all_commits=true"/>
-    
   <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mateusr337&layout=compact&theme=codeSTACKr&langs_count=10" />
 </div>
   
