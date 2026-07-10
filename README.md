@@ -1,7 +1,6 @@
 <div align="center">
   
-  ### Ola! Eu sou Mateus! 👋 
-  ### Hello! I am Mateus! 👋 
+  ### Ola! Eu sou Mateus! | Hello! I am Mateus! 👋 
   
 </div>
 
